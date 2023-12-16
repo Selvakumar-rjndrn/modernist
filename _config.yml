@@ -1,5 +1,8 @@
-title: Modernist theme
-description: Modernist is a theme for GitHub Pages.
+title: Selva Kumar Rajendran
+description: I am a Technical Lead at Integra Connect, a value-based, precision medicine company. With over 10 years of experience in Data Analytics and Reporting, I deliver data-driven insights and recommendations using tools such as SQL, Snowflake, DBT, Python, QlikView, Qlik Sense, Power BI, Tableau, SSAS, and SSIS. Currently, I am pursuing an MS in Data Science at the University of Arizona to enhance my skills and knowledge in this rapidly evolving field. I am passionate about learning new tools and techniques, as well as understanding the business needs and challenges of my clients.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-modernist
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
